@@ -10,7 +10,7 @@
 
     <form action="index.jsp">
 
-        <h3>
+        <h3 align="center">
 
             <%= request.getParameter("msg")%>
             Operacion Existosa
