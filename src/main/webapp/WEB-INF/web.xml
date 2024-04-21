@@ -39,4 +39,17 @@
     <servlet-name>SelectDetails</servlet-name>
     <url-pattern>/SelectDetails</url-pattern>
   </servlet-mapping>
+<<<<<<< HEAD
+=======
+  <servlet>
+    <description></description>
+    <display-name>UpdateDetails</display-name>
+    <servlet-name>UpdateDetails</servlet-name>
+    <servlet-class>javaPostgres.UpdateDetails</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UpdateDetails</servlet-name>
+    <url-pattern>/UpdateDetails</url-pattern>
+  </servlet-mapping>
+>>>>>>> upgrading
 </web-app>
